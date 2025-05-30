@@ -2,6 +2,7 @@
 
 This project provides an educational PostgreSQL database schema inspired by Spotify, including tables, views, triggers, indexes, and stored procedures for user management, music content, payments, friendships, and more. No special PostgreSQL features or extensions are required beyond standard UUID support.
 
+![Stupify](https://github.com/user-attachments/assets/47c18cdc-10f5-4933-8348-175ad6e9f9e3)
 ## Features
 
 - Users, artists, albums, tracks, playlists, and user relationships
